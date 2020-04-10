@@ -1,0 +1,25 @@
+{
+    "name": "com.stone.red-point-system",
+    "displayName": "Red Point System",
+    "version": "0.1.0",
+    "unity": "2018.3",
+    "description": "Red Point System",
+    "keywords": [
+        "apple",
+        "iphone",
+        "ios",
+        "ipad",
+        "ipados",
+        "tvos",
+        "unity"
+    ],
+    "category": "Unity",
+    "files": [
+        "/LICENSE",
+        "/README.md",
+        "/CHANGELOG.md",
+        "/package.json",
+        "/Assets/RedPoint",
+        "/Assets/RedPoint.meta"
+    ]
+}
